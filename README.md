@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https:www.linkedin.com/in/cesardavidmillan">
+  <a href="https://www.linkedin.com/in/cesardavidmillan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -32,7 +32,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 - :telescope: I’m preparing myselft to become a Software Engineer and work doing frontend and backend for a company.
 - :seedling: I'm in a bootcamp preparing myself to be a Full Stack Developer, also I use some platforms like Codecademy, Udemy and OpenBootcamp to keep improving my skills and knowledge.
 - :zap: In my free time, I love to read sci-fi books, technical books and go watch movies.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https:www.linkedin.com/in/cesardavidmillan")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/cesardavidmillan")
 
 
 ---
