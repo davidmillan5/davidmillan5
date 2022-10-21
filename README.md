@@ -50,6 +50,9 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="microsoftsqlserver" **alt="microsoftsqlserver" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
 
 
 <!--
