@@ -26,7 +26,7 @@
 
 ---
 
-### :man_technologist:
+### :man_technologist: About Me :
 
 I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Venezuela living in Medellín, Colombia.
 - :telescope: I’m preparing myselft to become a Software Engineer and work doing frontend and backend for a company.
@@ -53,7 +53,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### :fire: My Stats :
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmillan5&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **davidmillan5/davidmillan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
