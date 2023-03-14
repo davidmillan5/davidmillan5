@@ -47,7 +47,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davidmillan5&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidmillan5&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
