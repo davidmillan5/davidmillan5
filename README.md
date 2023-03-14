@@ -52,7 +52,9 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidmillan5&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmillan5"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidmillan5"/>
 
 
 <!--
