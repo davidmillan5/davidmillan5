@@ -39,7 +39,11 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,androidstudio,spring,py,mysql,sqlite,postgres,github)](https://skillicons.dev)
+
+</div>
 
 ---
 
