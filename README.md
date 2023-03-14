@@ -63,7 +63,7 @@ I am a Full Stack Developer Student <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidmillan5)](https://github.com/davidmillan5/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidmillan5&theme=dracula&show_icons=true)](https://github.com/davidmillan5/github-readme-stats)
 
 <!--
 **davidmillan5/davidmillan5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
