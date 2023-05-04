@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Venezuela living in Medellín, Colombia.
+I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  living in Medellín, Colombia.
 - :telescope: I’m working hard to become the best Software Engineer I can be and create solutions and generate the most value I can.
 - :seedling: I'm in a bootcamp preparing myself to be a Full Stack Developer, also I use some platforms like Codecademy, Udemy and OpenBootcamp to keep improving my skills and knowledge.
 - :zap: In my free time, I love to read sci-fi books, technical books and go watch movies.
