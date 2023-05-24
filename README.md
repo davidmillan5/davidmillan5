@@ -41,7 +41,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,nodejs,androidstudio,spring,py,mysql,sqlite,postgres,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,nodejs,mongodb,androidstudio,firebase,spring,py,mysql,sqlite,postgres,sequelize,github)](https://skillicons.dev)
 
 </div>
 
