@@ -26,13 +26,25 @@
 
 ---
 
-### :man_technologist: About Me :
+About Me:
 
-I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  living in Medellín, Colombia.
-- :telescope: I’m working hard to become the best Software Engineer I can be and create solutions and generate the most value I can.
-- :seedling: I'm in a bootcamp preparing myself to be a Full Stack Developer, also I use some platforms like Codecademy, Udemy and OpenBootcamp to keep improving my skills and knowledge.
-- :zap: In my free time, I love to read sci-fi books, technical books and go watch movies.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesardavidmillan)
+👋 Hi there! I'm César David Millán, a passionate and ambitious junior full-stack developer with expertise in Java, JavaScript, React.js, Express.js, Node.js, Spring, Spring Boot, Bootstrap, HTML, CSS, MySQL, SQL Server, PostgreSQL, Firebase, and MongoDB. I'm constantly honing my skills through online platforms like Codecademy, Udemy, Coursera, Allura OracleOne, and various other resources.
+
+💻 With a solid foundation in backend development, I completed a comprehensive bootcamp in backend development with Java, MySQL, and Spring. The bootcamp, organized by Sophos Solutions, provided hands-on experience and equipped me with the necessary skills to design and implement efficient and scalable applications.
+
+🌟 Throughout my journey as a developer, I've developed a keen interest in full-stack development, enabling me to seamlessly work on both the front-end and back-end aspects of a project. I thrive in dynamic and collaborative environments, where I can leverage my technical skills and creative problem-solving abilities to build innovative and user-friendly applications.
+
+📚 I'm a perpetual learner, always seeking opportunities to expand my knowledge and stay up-to-date with the latest technologies and best practices in the industry. I actively engage with online learning platforms and courses, such as Codecademy, Udemy, and Coursera, to enhance my understanding of various programming languages, frameworks, and tools.
+
+🚀 I strongly believe in the power of teamwork and collaboration. I value open communication, constructive feedback, and a growth-oriented mindset. My goal is to contribute to a dynamic development team, where I can learn from experienced professionals, contribute my skills, and make a meaningful impact on the projects I work on.
+
+📫 If you're interested in collaborating on exciting projects or discussing potential opportunities, please feel free to reach out. I'm always eager to connect with like-minded individuals and contribute to the tech community. Let's create something awesome together!
+
+🌐 You can find more about me and explore my projects on my GitHub profile: [GitHub Profile Link](https://github.com/davidmillan5)
+
+Thank you for taking the time to visit my GitHub repository. I appreciate your interest and look forward to connecting with you!
+
+Happy coding! 🚀
 
 
 ---
