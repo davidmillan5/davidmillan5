@@ -75,7 +75,7 @@ I strongly believe in the power of teamwork and collaboration. I value open comm
 If you're interested in collaborating on exciting projects or discussing potential opportunities, please feel free to reach out. I'm always eager to connect with like-minded individuals and contribute to the tech community. Let's create something awesome together!
 
 📧 Email: cesardavidmillan5@gmail.com
-🌐 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/cesardavidmillan/))
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/cesardavidmillan/)
 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
 🌐 Website: [Your Portfolio Website](https://www.yourwebsite.com/)
 
