@@ -1,107 +1,351 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="200"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/cesardavidmillan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/david_millan05" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=davidmillan5&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-# Hello, I'm Cesar David Millán 👋
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-
-## About Me 🚀
-
-I'm a passionate and versatile software engineer with a strong foundation in backend development. I specialize in a variety of technologies, including:
-
-- Spring Boot ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen)
-- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen)
-- React ![React](https://img.shields.io/badge/-React-blue)
-- WebFlux ![WebFlux](https://img.shields.io/badge/-WebFlux-brightgreen)
-- Git ![Git](https://img.shields.io/badge/-Git-orange)
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
-- ORM (Mongoose and Sequelize) ![ORM](https://img.shields.io/badge/-ORM%20(Mongoose%20%26%20Sequelize)-lightgrey)
-- MySQL ![MySQL](https://img.shields.io/badge/-MySQL-blue)
-- SQL Server ![SQL Server](https://img.shields.io/badge/-SQL%20Server-blue)
-- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-- Karate DSL Framework ![Karate DSL](https://img.shields.io/badge/-Karate%20DSL%20Framework-lightgrey)
-- Azure DevOps ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-blue)
-- JUnit ![JUnit](https://img.shields.io/badge/-JUnit-green)
-- Mockito ![Mockito](https://img.shields.io/badge/-Mockito-green)
-- Cucumber ![Cucumber](https://img.shields.io/badge/-Cucumber-green)
-- Gherkin ![Gherkin](https://img.shields.io/badge/-Gherkin-lightgrey)
-- OpenAPI ![OpenAPI](https://img.shields.io/badge/-OpenAPI-lightgrey)
-- JMeter ![JMeter](https://img.shields.io/badge/-JMeter-lightgrey)
-- AWS Cloud Practitioner ![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-yellow)
-
-During my journey, I've had diverse experiences, including a 7-month stint as a Data Analyst at Softtek and my current role as a Software Engineer in a prominent bank. I've completed a comprehensive backend development bootcamp with Java, MySQL, and Spring, organized by Sophos Solutions. This hands-on experience has equipped me with the skills to design and implement efficient and scalable applications.
-
-## What I Love ❤️
-
-Throughout my career, I've developed a keen interest in full-stack development. I enjoy seamlessly transitioning between front-end and back-end work to create innovative and user-friendly applications. I thrive in dynamic, collaborative environments where I can leverage my technical skills and creative problem-solving abilities.
-
-## Lifelong Learner 📚
-
-I'm a perpetual learner, always seeking opportunities to expand my knowledge and stay updated with the latest industry trends and best practices. You can often find me engaged in online courses on platforms like Codecademy, Udemy, and Coursera, enhancing my proficiency in various programming languages, frameworks, and tools.
-
-## Collaboration and Growth 🌱
-
-I strongly believe in the power of teamwork and collaboration. I value open communication, constructive feedback, and a growth-oriented mindset. My goal is to contribute to a dynamic development team, learn from experienced professionals, contribute my skills, and make a meaningful impact on the projects I work on.
-
-## Let's Connect! 📫
-
-If you're interested in collaborating on exciting projects or discussing potential opportunities, please feel free to reach out. I'm always eager to connect with like-minded individuals and contribute to the tech community. Let's create something awesome together!
-
-📧 Email: cesardavidmillan5@gmail.com
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/cesardavidmillan/)
-🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-🌐 Website: [Your Portfolio Website](https://www.yourwebsite.com/)
-
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,nodejs,mongodb,androidstudio,firebase,spring,py,mysql,sqlite,postgres,sequelize,github,git)](https://skillicons.dev)
+# 👋 Hi, I'm Cesar David Millán
+
+### Software Engineer · Backend & API Integration · Banking & Financial Services
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/cesardavidmillan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/davidmillan5)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/david_millan05)
+
+![Profile Views](https://komarev.com/ghpvc/?username=davidmillan5\&style=flat-square\&color=blue)
 
 </div>
 
 ---
 
-### :fire: My Stats :
+## 👨‍💻 About Me
+
+I'm a **Software Engineer focused on backend development, API integration, and distributed systems**, with professional experience in the **banking and financial-services domain**.
+
+My current engineering focus is building deeper expertise in **Java, Spring Boot, REST APIs, microservices, Clean Architecture, testing, and cloud-native development**.
+
+I enjoy working at the intersection of:
+
+* 🏦 **Banking & Financial Services**
+* 🔌 **API Integration & API Management**
+* ☕ **Java & Spring Boot**
+* 🧩 **Backend & Microservices Architecture**
+* 🧪 **Automated Testing & Quality Engineering**
+* ☁️ **Cloud & DevOps**
+* 📐 **Clean Architecture & Software Design**
+
+My professional experience with API integration has given me a strong understanding of API contracts, request/response transformation, backend integration, automated testing, CI/CD pipelines, and enterprise delivery processes.
+
+I'm currently expanding that experience toward **building backend services directly with Java and Spring Boot**, with a long-term focus on designing reliable, maintainable and scalable systems.
+
+---
+
+## 🏦 Engineering Experience
+
+### Software Engineer — Banking & Financial Services
+
+My work involves enterprise API integration and delivery within a banking environment, including:
+
+* Designing and implementing API integrations using **IBM API Connect**
+* Working with **OpenAPI specifications and API contracts**
+* Request and response transformation
+* Backend service integration
+* API lifecycle management
+* Automated API testing
+* CI/CD using **Azure DevOps**
+* API acceptance and contract testing
+* Performance testing with **Apache JMeter**
+* Collaboration across development, architecture, QA and integration teams
+* Supporting API deployments across enterprise environments
+
+This experience has given me a strong foundation in understanding how APIs move through an enterprise ecosystem — from **contract definition → implementation → testing → CI/CD → deployment → production delivery**.
+
+---
+
+## 🚀 Current Engineering Focus
+
+I'm currently strengthening my backend engineering capabilities with a focus on:
+
+```text
+Java
+  ↓
+Object-Oriented Programming
+  ↓
+Spring Framework
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+Microservices
+  ↓
+Clean Architecture
+  ↓
+Automated Testing
+  ↓
+Cloud & Kubernetes
+  ↓
+Reactive Programming / WebFlux
+```
+
+My goal is to evolve from primarily working with **API integration and API management** toward designing and implementing the **backend services behind those APIs**.
+
+---
+
+## 🧱 Architecture & Backend
+
+### Core
+
+* Java
+* Spring Framework
+* Spring Boot
+* Spring Web
+* REST APIs
+* Microservices
+* Clean Architecture
+* Object-Oriented Design
+* Design Patterns
+* API Design
+* OpenAPI 3
+
+### Reactive & Distributed Systems
+
+* Spring WebFlux
+* Reactive Programming
+* Reactive REST APIs
+* Distributed systems concepts
+
+### Data
+
+* PostgreSQL
+* MySQL
+* SQL Server
+* MongoDB
+* SQLite
+* JPA / ORM concepts
+* Mongoose
+* Sequelize
+
+---
+
+## 🧪 Testing & Quality
+
+I consider automated testing an essential part of backend engineering rather than an afterthought.
+
+### Testing Technologies
+
+* JUnit
+* Mockito
+* Karate DSL
+* Cucumber
+* Gherkin
+* API Contract Testing
+* Integration Testing
+* Acceptance Testing
+* Performance Testing
+* Apache JMeter
+* Postman
+
+I'm particularly interested in building **testable architectures where business logic, infrastructure and external integrations can be tested independently**.
+
+---
+
+## ☁️ Cloud, DevOps & Engineering Tools
+
+### Cloud & Infrastructure
+
+* AWS
+* AWS Cloud Practitioner
+* Kubernetes
+* Docker
+
+### CI/CD & Development
+
+* Azure DevOps
+* Git
+* GitHub
+* Gradle
+* Maven
+* IntelliJ IDEA
+
+### API & Integration
+
+* IBM API Connect
+* OpenAPI
+* REST
+* API Gateway concepts
+* API contract management
+* API mocking
+
+---
+
+## 🛠️ Languages & Technologies
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davidmillan5&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidmillan5&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,maven,postgres,mysql,mongodb,git,github,docker,kubernetes,aws,azure,python,js,nodejs,react)](https://skillicons.dev)
 
 </div>
 
+---
 
+## 📚 Currently Learning
+
+I'm continuously investing in the fundamentals required to become a stronger backend engineer.
+
+### Current Learning Path
+
+* ☕ Advanced Java
+* 🌱 Spring Framework
+* 🚀 Spring Boot
+* 🏗️ Clean Architecture
+* 🔌 RESTful API Design
+* 🧪 Unit & Integration Testing
+* 🥋 Karate & BDD
+* 🗄️ PostgreSQL
+* ☁️ AWS & Kubernetes
+* ⚡ Reactive Programming with Spring WebFlux
+* 📐 Software Architecture
+* 🔄 CI/CD and DevOps
+
+---
+
+## 💼 Featured Projects
+
+I'm building a portfolio of **banking and financial-services applications** designed to demonstrate practical backend engineering skills.
+
+### 🏦 Banking & Financial Services Portfolio
+
+| Project                     | Focus                         | Technologies                    |
+| --------------------------- | ----------------------------- | ------------------------------- |
+| Banking Account Service     | REST API & domain modeling    | Java · Spring Boot · PostgreSQL |
+| Payment Service             | Transaction processing        | Java · Spring Boot · PostgreSQL |
+| Customer Service            | Customer & account management | Java · Spring Boot · REST       |
+| Transaction History Service | Auditing & historical data    | Java · Spring Boot · PostgreSQL |
+| Reactive Banking API        | Reactive backend development  | Java · Spring WebFlux           |
+| API Testing Platform        | Contract & acceptance testing | Karate · Gherkin                |
+| Performance Testing Suite   | Load & stress testing         | JMeter                          |
+| Cloud-Native Deployment     | Containerized services        | Docker · Kubernetes · AWS       |
+
+> More projects and detailed architecture documentation will be added as the portfolio evolves.
+
+---
+
+## 🧠 Engineering Principles
+
+I try to approach software development with a few principles in mind:
+
+### **Design for change**
+
+Software should be structured so that changes in business requirements do not require rewriting the entire system.
+
+### **Keep business logic independent**
+
+Business rules should not be tightly coupled to frameworks, databases or external systems.
+
+### **Test behavior, not implementation**
+
+Tests should provide confidence that the system behaves correctly from a business perspective.
+
+### **Automate repetitive processes**
+
+CI/CD, testing and infrastructure automation should reduce manual errors and increase delivery confidence.
+
+### **Understand the system, not only the code**
+
+Good backend engineering requires understanding APIs, databases, infrastructure, security, observability, deployment and the business domain.
+
+---
+
+## 🌱 Professional Journey
+
+My career has evolved through several areas of technology, including data analysis, software development and enterprise integration.
+
+That experience has helped me develop an appreciation for both **technical implementation and business context**.
+
+Today, my main professional objective is to deepen my expertise in **backend engineering and software architecture**, particularly within the financial-services domain.
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davidmillan5\&theme=dark)](https://git.io/streak-stats)
+
+### 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5\&layout=compact\&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📊 GitHub Statistics
+
+[![Cesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmillan5\&theme=dark\&show_icons=true)](https://github.com/davidmillan5)
+
+</div>
+
+---
+
+## 🎯 What I'm Working Toward
+
+My long-term goal is to become a **strong backend engineer capable of designing, implementing, testing and operating production-grade distributed systems**.
+
+I'm particularly interested in engineering environments where I can work with:
+
+```text
+Java
++
+Spring Boot
++
+Microservices
++
+Clean Architecture
++
+REST APIs
++
+Automated Testing
++
+Cloud
++
+Kubernetes
++
+Observability
+```
+
+with a particular interest in **banking, fintech and other high-reliability systems**.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with other software engineers, architects, developers and technology professionals.
+
+Whether you're interested in:
+
+* Backend engineering
+* Java & Spring
+* API architecture
+* Microservices
+* Banking technology
+* Cloud engineering
+* Software architecture
+* Testing & quality engineering
+
+feel free to connect.
+
+<div align="center">
+
+### 📫 Find me online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar%20David%20Millán-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/cesardavidmillan/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-davidmillan5-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/davidmillan5)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Build software that is easy to understand, test, change and trust."**
+
+⭐ If you find something interesting in my repositories, feel free to explore them.
+
+</div>
