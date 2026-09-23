@@ -263,23 +263,33 @@ Today, my main professional objective is to deepen my expertise in **backend eng
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=davidmillan5\&theme=dark)](https://git.io/streak-stats)
-
 ### 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5\&layout=compact\&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmillan5&layout=compact&theme=dark&langs_count=8"
+alt="Most Used Languages"
+/>
 
-### 📊 GitHub Statistics
+### 📈 GitHub Stats
 
-[![Cesar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmillan5\&theme=dark\&show_icons=true)](https://github.com/davidmillan5)
+<img
+src="https://github-readme-stats.vercel.app/api?username=davidmillan5&theme=dark&show_icons=true&include_all_commits=true"
+alt="Cesar's GitHub Stats"
+/>
+
+### 🔥 Contribution Streak
+
+<img
+src="https://streak-stats.demolab.com/?user=davidmillan5&theme=dark"
+alt="GitHub Contribution Streak"
+/>
 
 </div>
+
 
 ---
 
